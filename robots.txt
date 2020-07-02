@@ -1,0 +1,4 @@
+Sitemap: https://celdiks.com/sitemapindex.xml
+
+User-Agent: *
+Host: celdiks.com

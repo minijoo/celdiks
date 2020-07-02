@@ -1,2 +1,0 @@
-# Celdiks Blog  
-a blog
